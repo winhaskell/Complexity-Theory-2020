@@ -1,0 +1,32 @@
+Complexity Theory
+
+http://www.cs.umd.edu/~jkatz/complexity/f11/
+http://infolab.stanford.edu/~ullman/ialc/spr10/spr10.html
+http://pages.cs.wisc.edu/~dieter/Courses/2015s-CS710/
+https://courses.cs.ut.ee/all/MTAT.07.004/2016_fall/uploads/
+
+
+
+depending on the interest of the students, we may study other computational processes that 
+arise in diverse areas of computer science, each with their own relevant efficiency measures. 
+
+Specific possible topics include:
+
+proof complexity, interactive proofs, and probabilistically checkable proofs -- motivated by verification,
+pseudorandomness and zero-knowledge -- motivated by cryptography and security,
+computational learning theory -- motivated by artificial intelligence,
+communication complexity -- motivated by distributed computing,
+query complexity -- motivated by databases.
+
+
+Computational Complexity: A Modern Approach
+Sanjeev Arora and Boaz Barak
+
+
+
+
+
+
+
+
+
